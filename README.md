@@ -1,12 +1,12 @@
-🐍 Snake-Gun-Water – Python Battle Royale
-Description:
-A desi spin on Rock-Paper-Scissors! Test your luck and logic as you face off against the computer in this fun Python CLI game.
-🐍 Snake drinks water
-💧 Water douses gun
-🔫 Gun shoots snake
+✊📄✂️ Rock-Paper-Scissors – Classic Python Game
+
+A simple Python game where you play Rock, Paper, Scissors against the computer. It randomly picks its move, and you try to beat it using the classic rules!
+
 Features:
+User vs Computer gameplay
+Score tracking
+Win/lose/draw results
+Clean command-line interface
 
-Stylish output and score tracking
-
-Unlimited rounds or best-of-5 mode
-🎯 Level it up with sounds or emojis in the terminal!
+Tech Used: random, input(), if-else logic
+🎮 Quick, fun, and great for beginners learning Python basics!
